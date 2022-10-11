@@ -1,9 +1,6 @@
 # 9021-quiz1
 Quiz 1 of 9021 Principle of Programming
 
-QUIZ 1
-COMP9021 PRINCIPLES OF PROGRAMMING
-$ python3 quiz_1.py
 Enter two integers, the second one being 3 or more: 10 3
 The chosen dimension is 3.
 Also, I have this sequence of 3 digits for you:
